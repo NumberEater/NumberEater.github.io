@@ -13,3 +13,9 @@ body video {
 .title {
 	font-family: fantasy;
 }
+
+@media only screen and (min-width:1000px) {
+	body h1 {
+		font-size: 2em;
+	}
+}
