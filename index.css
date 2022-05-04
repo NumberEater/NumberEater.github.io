@@ -1,10 +1,10 @@
 body {
-	font-family: sans-serif;
+	font-family: monaco;
 	color: white;
 	background-color: #424242;
 }
 body h1 {
-	font-size: 7em;
+	font-size: 4em;
 }
 body video {
 	margin: 0;
@@ -14,7 +14,8 @@ body video {
 	font-family: fantasy;
 }
 
-@media only screen and (min-width:1000px) {
+/* Computer Styles */
+@media only screen and (min-width:800px) {
 	body h1 {
 		font-size: 2em;
 	}
