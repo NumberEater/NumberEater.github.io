@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(56, 56, 56);
+    color: rgb(255, 255, 255);
+}
+body h1 {
+    font-size: 3em;
+}
+body img {
+    max-width: 90%;
+    height: auto;
+    border: 10px solid white;
+    margin-bottom: 20px;
+}
